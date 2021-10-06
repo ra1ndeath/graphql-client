@@ -1,7 +1,6 @@
 {
   "name": "@ra1ndeath/graphql",
   "private": false,
-  "version": "1.0",
   "description": "Subscription and Fetch GraphQL",
   "keywords": [
     "graphql",
