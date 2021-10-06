@@ -1,6 +1,7 @@
 {
   "name": "@ra1ndeath/graphql",
   "private": false,
+  "version": "0.1.0",
   "description": "Subscription and Fetch GraphQL",
   "keywords": [
     "graphql",
@@ -22,5 +23,8 @@
     "@neutrinojs/library": "^8.3.0",
     "@neutrinojs/standardjs": "^8.3.0",
     "neutrino": "^8.3.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0"
   }
 }

@@ -1,3 +1,4 @@
+import fetch from 'node-fetch';
 export const fetchOptions = {
   method: 'post',
   headers: { 'Content-Type': 'application/json' }
